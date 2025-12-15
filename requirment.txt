@@ -1,0 +1,12 @@
+mlflow
+pytest
+scikit-learn
+xgboost
+lightgbm
+pandas
+numpy
+fastapi
+uvicorn
+pydantic
+flake8
+
